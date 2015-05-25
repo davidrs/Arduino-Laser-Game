@@ -20,6 +20,9 @@ When you hit them they will fall down. A second player can pop-up targets using 
 - Xbox wired controller (optional)
 - USB hub (optional)
 
+## Schema (for first two targets)
+![Layout wiring schema](schematic.png)
+
 
 
 ## Setup
